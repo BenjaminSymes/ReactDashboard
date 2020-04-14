@@ -1,0 +1,11 @@
+{
+    "username": "Soem GUy",
+    "sidebar": [
+        {
+            "id": 0,
+            "name": "Dashboard 1",
+            "action": "open-dashboard",
+            "value": "demo-dashboard1.json"
+        }
+    ]
+}
