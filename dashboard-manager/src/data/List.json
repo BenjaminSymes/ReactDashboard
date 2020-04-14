@@ -19,27 +19,6 @@
 		"country": "Italy",
 		"cases": "Cases = 143,626",
 		"deaths": "Deaths = 18,279"
-	},
-	{
-		"id": 4,
-		"month": "April",
-		"country": "Germany",
-		"cases": "Cases = 118,235",
-		"deaths": "Deaths = 2,607"
-	},
-	{
-		"id": 5,
-		"month": "April",
-		"country": "France",
-		"cases": "Cases = 117,749",
-		"deaths": "Deaths = 12,210"
-	},
-	{
-		"id": 6,
-		"month": "April",
-		"country": "China",
-		"cases": "Cases = 81,907",
-		"deaths": "Deaths = 3,336"
 	}
 	
 ]

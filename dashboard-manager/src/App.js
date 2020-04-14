@@ -24,8 +24,6 @@ const App = () => {
         </div>
         <div className={classes.root}>
             <CssBaseline />
-            
-            <Dashboard />
         </div>
        </div>
     );

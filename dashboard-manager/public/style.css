@@ -25,7 +25,7 @@
 }
 
 .react-grid-item.react-grid-placeholder {
-  background: red;
+  background: rgb(115, 136, 253);
   opacity: 0.2;
   transition-duration: 100ms;
   z-index: 2;
@@ -69,7 +69,7 @@ body {
   width: 100%;
 }
 .react-grid-layout {
-  background: #eee;
+  background: rgb(248, 248, 248);
 }
 .layoutJSON {
   background: #ddd;
